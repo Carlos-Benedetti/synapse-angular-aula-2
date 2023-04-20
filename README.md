@@ -1,27 +1,29 @@
 # Aula2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
+Projeto básico de listagem para demonstrar princípios de desenvolvimento angular e componentes externos
 
-## Development server
+## instalação
+instale as dependencias necessárias do projeto 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+execute no terminal: 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```shell
+$ npm i
+```
 
-## Build
+## rodando o projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+execute no terminal: 
 
-## Running unit tests
+```shell
+$ npm start
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+assim que a menssagem: *"Angular Live Development Server is listening on localhost:4200, open your browser on http://
+localhost:4200/"*
 
-## Running end-to-end tests
+pronto, pode abrir http://localhost:4200/ no seu navegador
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## não tem a API da aula de cloud?
+pra quem não estiver com o mysql e a api desenvolvidos nas aulas do Yan, quando a requisição **falhar**, seram mostrados dados de mockup
