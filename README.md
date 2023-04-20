@@ -1,4 +1,4 @@
-# Aula2
+# aula-2: Angular basico
 
 Projeto básico de listagem para demonstrar princípios de desenvolvimento angular e componentes externos
 
