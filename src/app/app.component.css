@@ -1,0 +1,22 @@
+.wrapper{
+    margin: auto;
+    height: 80%;
+    padding:14px;
+}
+.content,.aluno-list{
+    height: 100%;
+}
+.aluno-list{
+    background-color: rgb(228, 227, 227);
+    padding: 1rem;
+    overflow-y: auto;
+}
+app-card-aluno{
+    display: block;
+    margin: 20px 0;
+}
+
+.list-spinner{
+    margin: auto;
+}
+
